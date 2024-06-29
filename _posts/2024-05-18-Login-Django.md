@@ -99,8 +99,8 @@ SOCIALACCOUNT_PROVIDERS = {
 
 Em seu template HTML onde deseja adicionar o botão de login do Google, insira o seguinte código:
 ```bash
-{% load socialaccount %}
-<a href="{% provider_login_url "google" %}?next=/">Login com Google</a>
+{ load- socialaccount }
+<a href="{ provider_login_url "google" }?next=/">Login com Google</a>
 ```
 
 ### Passo 7: Migrações e Execução do Servidor
