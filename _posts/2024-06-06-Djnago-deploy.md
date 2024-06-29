@@ -1,5 +1,5 @@
 ---
-title: "Como fazer login com Google Django: DEploy"
+title: "Como fazer deploy de um projeto Django gratuito"
 date: 2024-05-18
 categories: [Tutorial]
 tags: [Django, Google, Allauth, Login, Python]
@@ -46,10 +46,10 @@ Fica assim:
 
 ```bash
 MIDDLEWARE = [
-    # ...
-    "django.middleware.security.SecurityMiddleware",
-    "whitenoise.middleware.WhiteNoiseMiddleware",
-    # ...
+# ...
+"django.middleware.security.SecurityMiddleware",
+"whitenoise.middleware.WhiteNoiseMiddleware",
+# ...
 ]
 ```
 ### Agora ainda no arquivo settings.py cole esse código nas ultimas linhas:
