@@ -13,7 +13,7 @@
 
     ![and](../imgs/porta-And/porta-logica-and.png)
 
-    ## Situações possíveis
+## Situações possíveis
 
     ![image-20240927153002742](../imgs/porta-And/funções-possiveis.png)
 
