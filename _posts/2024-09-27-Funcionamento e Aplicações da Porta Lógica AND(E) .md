@@ -15,7 +15,7 @@
 
 ## Situações possíveis
 
-    ![image-20240927153002742](../imgs/porta-And/funções-possiveis.png)
+![image-20240927153002742](../imgs/porta-And/funções-possiveis.png)
 
 
 
@@ -82,11 +82,11 @@ chama-se o conjunto de Tabela Verdade.
 
   ![](../imgs/porta-And/porta-logica-and4.png)
 
-  ## Resumo
+## Resumo
 
-  **A porta lógica AND (representada como E) é um componente básico da eletrônica digital. Ela realiza uma operação lógica que só resulta em "verdadeiro" (1) se todas as entradas forem "verdadeiras" (1). Se qualquer entrada for "falsa" (0), a saída será "falsa" (0). A porta AND é frequentemente usada em circuitos onde todas as condições precisam ser atendidas para que uma ação ocorra.**
+**A porta lógica AND (representada como E) é um componente básico da eletrônica digital. Ela realiza uma operação lógica que só resulta em "verdadeiro" (1) se todas as entradas forem "verdadeiras" (1). Se qualquer entrada for "falsa" (0), a saída será "falsa" (0). A porta AND é frequentemente usada em circuitos onde todas as condições precisam ser atendidas para que uma ação ocorra.**
 
   
 
-  ###### ![](../imgs/porta-And/porta-logica-and5.png)
+![](../imgs/porta-And/porta-logica-and5.png)
 
